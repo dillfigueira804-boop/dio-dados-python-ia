@@ -1,0 +1,6 @@
+id_entrega,cidade,valor_frete,status
+101,Belem,120.50,Entregue
+102,Ananindeua,45.00,Atrasado
+103,Castanhal,210.00,Entregue
+104,Maraba,450.00,Atrasado
+105,Belem,80.00,Entregue
